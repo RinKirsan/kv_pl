@@ -32,3 +32,10 @@ object task3 extends App {
   tempFar(-24, 3)
   tempFar(65)
 }
+
+object task4 extends App {
+  def count(str: String): Unit = {
+    println(s"Line length \"$str\": ${str.length}")
+  }
+  count("aaaaa")
+}
