@@ -1,4 +1,4 @@
-package tasks.lec6
+package tasks.lesson6
 
 import scala.util.{Failure, Success, Try}
 

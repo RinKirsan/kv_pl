@@ -1,4 +1,4 @@
-package tasks.lec1
+package tasks.lesson1
 
 
 object HelloWorld {
